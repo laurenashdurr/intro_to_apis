@@ -15,6 +15,7 @@ Learning to use js to get data, and display it.
 ### Fetch
 ```javascript
 // BASIC fetch usage
-fetch(<url>)
-    .then
-    .then
+fetch (<url>)
+    .then(<cb to process the data>)
+    .then(<cb to use the data>)  
+```
