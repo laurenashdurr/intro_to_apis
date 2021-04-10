@@ -3,7 +3,6 @@ Learning to use js to get data, and display it.
 
 
 ### TODO:
-* Fetch
 * Async
 * Apis
 * REST
@@ -13,3 +12,9 @@ Learning to use js to get data, and display it.
 - [MDN Promise Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [...]()
 
+### Fetch
+```javascript
+// BASIC fetch usage
+fetch(<url>)
+    .then
+    .then
